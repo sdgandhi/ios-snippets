@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: C82D229C-B13C-4A9D-AF85-73F0A2631AC7
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 
 + (instancetype)shared<#name#> {
     static <#class#> *_shared<#name#> = nil;
