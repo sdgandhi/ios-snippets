@@ -1,6 +1,7 @@
 // UIColor RGB
 // 
 //
+// IDECodeSnippetCompletionPrefix: colorrgb
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 8C11E034-39F6-4934-B80D-9A4E544B5FDF
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
