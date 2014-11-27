@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: F6C0A4BD-C3A4-4997-B367-EE93DA858B12
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 
 #import <MessageUI/MessageUI.h>
 
