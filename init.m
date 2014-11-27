@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: D9455662-15F8-4563-AD48-075E0869F6B8
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 
 self = [super init];
 if (!self) {
