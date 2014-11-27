@@ -1,6 +1,7 @@
 // Method Swizzle
 // 
 //
+// IDECodeSnippetCompletionPrefix: swizzle
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: 0354C478-67FF-4EEF-9A9A-6827BB573577
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
