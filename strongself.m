@@ -6,6 +6,6 @@
 // IDECodeSnippetIdentifier: DCCBB2F0-7366-40E2-8846-11072AC928B2
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 
 __strong __typeof(<#weakSelf#>)strongSelf = <#weakSelf#>;
