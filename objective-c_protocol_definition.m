@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: @protocol
 // IDECodeSnippetCompletionScopes: [TopLevel]
-// IDECodeSnippetIdentifier: 986936BB-E0FE-4E7E-9A79-E3C77528204E
+// IDECodeSnippetIdentifier: 0A46F9E9-3EF5-411E-9172-6B7037FE4C26
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 @protocol <#protocol name#> <NSObject>
 
 <#methods#>
