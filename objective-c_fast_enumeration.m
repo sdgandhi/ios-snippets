@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: forin
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 60CB781B-02C5-4C32-B205-44EEF8209DBC
+// IDECodeSnippetIdentifier: E6246F95-3D4A-4EEE-89ED-A65890771D8D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 for (<#type *object#> in <#collection#>) {
     <#statements#>
 }
