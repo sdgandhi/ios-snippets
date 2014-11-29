@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 0354C478-67FF-4EEF-9A9A-6827BB573577
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #pragma mark - Metaprogramming
 
 void MethodSwizzle(Class c, SEL orig, SEL new)
