@@ -1,6 +1,7 @@
 // Collection View Item Sizing
 // 
 //
+// IDECodeSnippetCompletionPrefix: collectionviewitemsizing
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 06C6EC97-8A10-40AD-8CFC-EAA21689C02B
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
