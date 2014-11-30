@@ -1,6 +1,7 @@
 // Hide keyboard on text field loose focus
 // 
 //
+// IDECodeSnippetCompletionPrefix: closehidekeyboard
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 85999AC6-06DD-45A1-9191-AE385B2410AA
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
